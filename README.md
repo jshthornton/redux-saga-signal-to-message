@@ -1,0 +1,1 @@
+# redux-saga-signal-to-message
